@@ -1,5 +1,5 @@
 
-
+# https://jaromiru.com/2016/10/03/lets-make-a-dqn-implementation/
 import random, numpy, math, gym
 
 # -------------------- BRAIN ---------------------------
