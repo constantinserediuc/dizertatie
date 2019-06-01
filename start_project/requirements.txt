@@ -1,0 +1,8 @@
+drawSvg
+keras
+tensorflow
+numpy
+matplotlib
+scikit-image
+keras-rl
+gym[atari]
